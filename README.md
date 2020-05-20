@@ -1,2 +1,2 @@
 # ProjectEuler
-Solving problems from the site projecteuler.net
+Solving problems from the site <https://projecteuler.net>
